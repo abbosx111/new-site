@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.account {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.header div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+
+input[placeholder="   введите запрос"] {
+    width: 500px;
+    height: 30px;
+    padding: 18px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.first {
+    margin-right: -35px;
+    z-index: 2;
+}
+
+.fa-keyboard {
+    margin-left: -45px;
+}
+
+.fa-magnifying-glass {
+    border: 1px solid gray;
+    padding: 11px 25px;
+    background-color: rgb(228, 220, 220);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: -5px;
+}
+
+.fa-microphone {
+    padding: 12px;
+    background-color: rgb(228, 222, 222);
+    border-radius: 50%;
+}
+
+.buttons {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+    /* position: fixed; */
+}
+
+.buttons button {
+    /* padding: 10px; */
+    margin-left: 48px;
+    width: 79px;
+    height: 29px;
+    border-radius: 11px;
+    border: none;
+    font-weight: bold;
+}
+
+.contanier {
+    display: flex;
+    padding: 33px;
+    gap: 52px;
+}
+
+.pictu2 {
+    border-radius: 20px;
+}
+
+.pictu5 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /* margin-top: 50px; */
+
+}
+
+
+.un {
+    color: rgb(169, 147, 147);
+    margin-left: -10px;
+}
+
+.un:hover {
+    color: black;
+}
+
+
+.titles {
+
+    margin-left: 50px;
+}
+
+
+.on {
+    color: rgb(169, 147, 147);
+    margin-left: -10px;
+}
+
+.on:hover{
+    
+}
+
+.po {
+    margin-top: -55px;
+}
+
+.pictu6 {
+    border-radius: 20px;
+    /* width: 250px; */
+}
+
+.pictu11 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /* margin-left: -110px; */
+}
+
+.popo {
+    margin-left: -px;
+
+    margin-top: -50px;
+}
+
+.pip1 {
+    margin-top: -50px;
+
+}
+
+.pictu {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.ictu {
+    border-radius: 20px;
+}
+
+.lp {
+    display: flex;
+    padding: 33px;
+    gap: 52px;
+}
+
+.Shorts{
+    padding: 33px; 
+}
+
+.ota{
+    padding: 33px; 
+    display: flex;
+    gap: 25px;
+}
+
+.pp{
+    color: gray;
+}
+
+.ss{
+    border-radius: 11px;
+
+}
+
+.insg{
+    width: 333px;
+    height: 170px;
+    border-radius: 20px;
+}
